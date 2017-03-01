@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.container{
+	column-count: 2;
+	display: flex;
+	padding: 50px 75px 50px 75px;
+}
+
+.cityName{
+	font-size: 40px;
+	color: white;
+	width: 400px;
+	text-align: right;
+}
+
+.weatherForecast{
+	width: 800px;
+	text-align: center;
+	color: white;
+}
